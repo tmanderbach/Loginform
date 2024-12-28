@@ -91,3 +91,7 @@ body {
 .wrapper .btn:hover {
     width: 55%;
 }
+
+#lockImg:hover {
+    cursor: pointer;
+}
